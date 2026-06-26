@@ -86,12 +86,12 @@ Designed with modular data providers:
 
 ## Agent Capabilities
 
-Example questions:
+**Example questions:**
 
-You:
-Based on today's news, how will the gold price change?
+**You:**
+**Based on today's news, how will the gold price change?**
 
-Agent:
+**Agent:**
 Based on today's news, the gold price is likely to experience continued downward pressure due to several key factors:
 
 1. **Current Market Direction**: The market is currently bearish, with gold prices falling below critical support levels. The strengthening U.S. dollar is making gold less affordable for international buyers, contributing to the decline.
@@ -109,12 +109,12 @@ Based on today's news, the gold price is likely to experience continued downward
 
 In summary, while there may be short-term fluctuations due to geopolitical developments, the overall sentiment suggests that gold prices are likely to remain under pressure in the near term.
 
+&nbsp;
 
+**You:**
+**What is the gold price forecast for next month?**
 
-You:
-What is the gold price forecast for next month?
-
-Agent:
+**Agent:**
 **Gold Price Forecast for Next Month:**
 
 **Expected Market Direction:** Bearish
